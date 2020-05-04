@@ -7,7 +7,8 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #868e96;
+  color: #e6f2ff;
+  background: #0f3357;
 }
 
 @media (min-width: 992px) {
@@ -26,7 +27,7 @@ h6 {
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
   text-transform: uppercase;
-  color: #343a40;
+  color: #3399ff;
 }
 
 h1 {
@@ -164,11 +165,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #003366 !important;
+  color: #80bfff !important;
 }
 
 a {
-  color: #003366;
+  color: #80bfff;
 }
 
 a:hover, a:focus, a:active {
